@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 // ========== CONFIGURATION & DATABASES ==========
-const PASSWORD = 'Alexa';
+const PASSWORD = 'Zoro';
 
 const DATABASES = {
     'sanjee': 'https://sanjee-9918a-default-rtdb.firebaseio.com',
